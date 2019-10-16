@@ -1,0 +1,9 @@
+@tailwind base;
+
+body {
+    @apply bg-tan-lighter;
+}
+
+@tailwind components;
+@tailwind utilities;
+
